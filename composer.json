@@ -1,0 +1,23 @@
+{
+    "name": "olawuyiayansola/recursion",
+    "require-dev": {
+        "php": "^7.3|^8.0",
+        "phpunit/phpunit": "^9.5"
+    },
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Olawuyiayansola\\Recursion\\": "src/",
+            "Test\\Olawuyiayansola\\Recursion\\": "tests/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Olawuyi Ayansola",
+            "email": "codedev85@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
